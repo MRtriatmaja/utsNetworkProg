@@ -1,4 +1,3 @@
-from pstats import SortKey
 import socket
 
 host = socket.gethostname()
